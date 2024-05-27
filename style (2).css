@@ -1,0 +1,25 @@
+body {
+ background-image: url("background2.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+input[type=text], select {
+  width: 80%;
+}
+
+input[type=password], select {
+  width: 80%;
+}
+
+#loginbutton {
+  width: 80%;
+}
+
+#qr	{
+	display: inline-block;
+}
+
+#h1 {
+  color: blue;
+}

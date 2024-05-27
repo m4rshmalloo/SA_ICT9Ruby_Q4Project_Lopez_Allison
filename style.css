@@ -1,0 +1,23 @@
+body {
+	background-image: url(Background.jpg);
+}
+
+div {
+	background-color: white;
+	border: thick solid darkgreen;
+	padding: 6px;
+}
+
+.div {
+	text-align: center;
+}
+
+table, td {
+	border: 3px solid darkgreen;
+	background-color: white;
+}
+
+th {
+	font-size: 20px;
+	padding: 2px;
+}

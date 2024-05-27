@@ -1,0 +1,14 @@
+body {
+	background-image: url(background4.jpg);
+}
+
+
+#button {
+	height: 30px;
+	width: 100px;
+}
+
+#name {
+	color: royalblue;
+	font-size: 20px;
+}
